@@ -31,11 +31,11 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # riceDroid Stuff
-RISING_MAINTAINER := MrUn1corn
+RISING_MAINTAINER := HAMRAJ37
 WITH_GMS := false
 SUSHI_BOOTANIMATION := 720
 TARGET_BUILD_APERTURE_CAMERA := true
-TARGET_ENABLE_BLUR := true
+TARGET_ENABLE_BLUR := false
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
 # Allow usage of custom binary linker (LD), default is false
